@@ -11,6 +11,10 @@
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
+        <tab>Lifescycle_Hooks</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>Quiz_App</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
