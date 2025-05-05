@@ -7,10 +7,11 @@
 .sfdx/
 .localdevserver/
 deploy-options.json
-
+*profile*
+force-app\main\default\profiles
 # LWC VSCode autocomplete
 **/lwc/jsconfig.json
-
+0
 # LWC Jest coverage reports
 coverage/
 

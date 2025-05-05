@@ -13,6 +13,7 @@
     <label>Zero to Hero in LWC</label>
     <navType>Standard</navType>
     <tabs>LWC_Fundamentals</tabs>
+    <tabs>Components_Communication</tabs>
     <tabs>Lifescycle_Hooks</tabs>
     <tabs>Quiz_App</tabs>
     <tabs>Styling_in_LWC</tabs>
